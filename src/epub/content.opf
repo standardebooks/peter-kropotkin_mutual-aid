@@ -54,7 +54,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4341</dc:source>
 		<dc:source>https://www.google.com/books/edition/Mutual_Aid/5zhjAAAAMAAJ</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">The appendix was not inlined into the endnotes because some of the entries are very long, too long to be comfortably read as an endnote.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mutual_Aid</meta>
@@ -93,6 +93,7 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/appendix.xhtml" id="appendix.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-3.xhtml" id="chapter-3.xhtml" media-type="application/xhtml+xml"/>
@@ -125,6 +126,7 @@
 		<itemref idref="chapter-7.xhtml"/>
 		<itemref idref="chapter-8.xhtml"/>
 		<itemref idref="conclusion.xhtml"/>
+		<itemref idref="appendix.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>

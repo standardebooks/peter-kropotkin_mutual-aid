@@ -57,7 +57,7 @@
 		<meta property="se:production-notes">The appendix was not inlined into the endnotes because some of the entries are very long, too long to be comfortably read as an endnote.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mutual_Aid</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mutual_Aid:_A_Factor_of_Evolution</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/peter-kropotkin_mutual-aid</meta>
 		<dc:creator id="author">Peter Kropotkin</dc:creator>
 		<meta property="file-as" refines="#author">Kropotkin, Peter</meta>
@@ -76,6 +76,10 @@
 		<dc:contributor id="transcriber-1">Charles Aldarondo</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Aldarondo, Charles</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="sponsor">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#sponsor">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#sponsor">http://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#sponsor" scheme="marc:relators">spn</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>

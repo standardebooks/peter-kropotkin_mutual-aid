@@ -3,7 +3,7 @@
 	<file path="endnotes.xhtml">
 		<ignore>
 			<code>t-007</code>
-			<reason>Non-English title is as-s in print.</reason>
+			<reason>Non-English title is as-is in print.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>

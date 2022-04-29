@@ -56,7 +56,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/4341</dc:source>
 		<dc:source>https://www.google.com/books/edition/Mutual_Aid/5zhjAAAAMAAJ</dc:source>
 		<meta property="se:production-notes">The appendix was not inlined into the endnotes because some of the entries are too long to be comfortably read as an endnote.</meta>
-		<meta property="se:word-count">88474</meta>
+		<meta property="se:word-count">88476</meta>
 		<meta property="se:reading-ease.flesch">42.55</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mutual_Aid:_A_Factor_of_Evolution</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/peter-kropotkin_mutual-aid</meta>

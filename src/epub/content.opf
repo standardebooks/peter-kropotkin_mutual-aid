@@ -79,7 +79,7 @@
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="sponsor">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#sponsor">Cheng, Weijia</meta>
-		<meta property="se:url.homepage" refines="#sponsor">http://weijiarhymeswith.asia</meta>
+		<meta property="se:url.homepage" refines="#sponsor">https://weijiarhymeswith.asia</meta>
 		<meta property="role" refines="#sponsor" scheme="marc:relators">spn</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>

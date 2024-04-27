@@ -45,7 +45,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85123963</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">Kropotkin explores the role of cooperation in animal societes and human societies, past and present, and how it could benefit modern society.</dc:description>
+		<dc:description id="description">Kropotkin explores the role of cooperation in animal societies and human societies, past and present, and how it could benefit modern society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/peter-kropotkin"&gt;Peter Kropotkin&lt;/a&gt; initially published the chapters of &lt;i&gt;Mutual Aid&lt;/i&gt; as individual essays in the intellectual periodical &lt;i&gt;The Nineteenth Century&lt;/i&gt; over the course of six years. In 1902 the essays were published as a book.&lt;/p&gt;
 			&lt;p&gt;In it, Kropotkin explores the role of mutually-beneficial cooperation across both animal and human societies. He begins by outlining how animals, both within and across species, thrive not through individual fitness, but rather through mutual cooperation. He then extends the breadth of his study to ancient human societies across generations and nations, until arriving at modern society, which he suggests has largely dispensed with the ancient benefits of mutual aid in favor of private property, capitalism, and social Darwinism.&lt;/p&gt;

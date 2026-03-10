@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="endnotes.xhtml">
 		<ignore code="t-007">
+			<line>268</line>
 			<reason>Non-English title is as-is in print.</reason>
 		</ignore>
 	</file>

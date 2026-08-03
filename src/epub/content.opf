@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/peter-kropotkin/mutual-aid</dc:identifier>
 		<dc:date>2021-08-27T23:57:01Z</dc:date>
@@ -47,13 +47,13 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85123963</meta>
 		<meta property="schema:genre">Philosophy</meta>
-		<dc:description id="description">Kropotkin explores the role of cooperation in animal societies and human societies, past and present, and how it could benefit modern society.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Kropotkin explores the role of cooperation in animal societies and human societies, past and present, and how it could benefit modern society.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/peter-kropotkin"&gt;Peter Kropotkin&lt;/a&gt; initially published the chapters of &lt;i&gt;Mutual Aid&lt;/i&gt; as individual essays in the intellectual periodical &lt;i&gt;The Nineteenth Century&lt;/i&gt; over the course of six years. In 1902 the essays were published as a book.&lt;/p&gt;
 			&lt;p&gt;In it, Kropotkin explores the role of mutually beneficial cooperation across both animal and human societies. He begins by outlining how animals, both within and across species, thrive not through individual fitness, but rather through mutual cooperation. He then extends the breadth of his study to ancient human societies across generations and nations, until arriving at modern society, which he suggests has largely dispensed with the ancient benefits of mutual aid in favor of private property, capitalism, and social Darwinism.&lt;/p&gt;
 			&lt;p&gt;Though more of a philosophical work than a scientific work, many of Kropotkin’s observations of the animal kingdom are considered to be scientifically accurate today, with Douglas H. Boucher calling &lt;i&gt;Mutual Aid&lt;/i&gt; a precursor to the theory of biological altruism.&lt;/p&gt;
 			&lt;p&gt;As a philosophical work &lt;i&gt;Mutual Aid&lt;/i&gt;, along with his other work &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/peter-kropotkin/the-conquest-of-bread/chapman-and-hall"&gt;The Conquest of Bread&lt;/a&gt;&lt;/i&gt;, is recognized as a foundational text of the anarcho-communist political philosophy.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4341</dc:source>
 		<dc:source>https://www.google.com/books/edition/Mutual_Aid/5zhjAAAAMAAJ</dc:source>
